@@ -24,3 +24,4 @@
 * Dragonite, flying/dragon
 * Lapras, water/ice
 * Kingler, water
+* Seadra, water
