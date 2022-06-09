@@ -25,3 +25,4 @@
 * Lapras, water/ice
 * Kingler, water
 * Seadra, water
+* Salamence, dragon/flying
